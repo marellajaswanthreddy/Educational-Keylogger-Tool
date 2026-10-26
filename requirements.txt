@@ -1,0 +1,2 @@
+# Uses Python's standard-library Tkinter; no pip packages required.
+# pynput is intentionally not used for global capture in this safe demo.
